@@ -17,12 +17,25 @@
   <li>✅ Easy integration into other apps</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/60719149/274862233-b2d44c0f-6a84-4a0a-b931-7b1519d8b3fc.png" alt="Features" width="100%" />
+
+<hr>
+
+<h2>🚀 Demo Screenshots</h2>
+
+<div class="slider-container">
+  <div class="slider-wrapper" id="sliderWrapper">
+    <img src="https://raw.githubusercontent.com/dhakeddevendra5/PasswordGenerator/master/PasswordGenerator/Screenshot%202025-05-10%20145642.png" alt="Screenshot 1" />
+    <img src="https://raw.githubusercontent.com/dhakeddevendra5/PasswordGenerator/master/PasswordGenerator/Screenshot%202025-05-10%20145706.png" alt="Screenshot 2" />
+    <img src="https://raw.githubusercontent.com/dhakeddevendra5/PasswordGenerator/master/PasswordGenerator/Screenshot%202025-05-10%20145732.png" alt="Screenshot 3" />
+    <img src="https://raw.githubusercontent.com/dhakeddevendra5/PasswordGenerator/master/PasswordGenerator/Screenshot%202025-05-10%20145740.png" alt="Screenshot 4" />
+  </div>
+</div>
+
+
 
 <hr>
 
 <h2>📦 API Overview</h2>
-<img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/rest-api.png" alt="API Icon"/>
 
 <pre><code>POST /api/generate</code></pre>
 
