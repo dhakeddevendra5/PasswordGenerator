@@ -50,7 +50,7 @@
 
 <h4>📤 Sample Response:</h4>
 <pre><code>{
-  "password": "A2f@kLp9#Zx1"
+  "password": "<]#b0%rgnyj7!s"
 }</code></pre>
 
 <hr>
